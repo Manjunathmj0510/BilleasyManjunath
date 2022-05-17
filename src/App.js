@@ -5,8 +5,10 @@ import CollageImage from './collage/collage';
 
 function App() {
   return (
-    <div className="App">
-     <CollageImage/>
+    <div className='App'>
+    <div className='container'>
+    <CollageImage/>
+    </div>
     </div>
   );
 }
