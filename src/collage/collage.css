@@ -1,0 +1,11 @@
+.column img {
+    border: 4px solid rgb(1, 1, 56);
+}
+
+
+@media (min-width:994px){
+   .column{
+       /* margin-right: 50px !important; */
+       padding-right: 100px !important;
+   }
+}
